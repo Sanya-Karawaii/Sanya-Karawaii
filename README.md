@@ -3,10 +3,12 @@
 _Меня зовут Александра Кулдышева, я геймдизайнер, занимающийся созданием игр и разработкой их на Unity!_
 
 ---
-
-- __Сейчас я работаю:__ над развитием навыков написания скриптов на C# для налаживания процесса создания прототипов игр на Unity. Подробнее можно изучить здесь: [Unity-Practice](https://github.com/Sanya-Karawaii/unity-practice).
-
-- __Недавно закончила работать:__ над созданием прототипа собственной игры "Тортуазов Панцирь". Создание прототипа в Unity можно изучить здесь: [Tortoises-Shell2D](https://github.com/Sanya-Karawaii/Tortoises-Shell2D). Сам билд можно скачать здесь: [TortoisesShellBuild](https://drive.google.com/file/d/1pS20pkfSDcbbnPqZ08xhRV6UIaNMPH8C/view?usp=sharing).
+- __Недавно закончила работать:__ над созданием прототипа собственной игры "Тортуазов Панцирь".                                             
+   - Создание прототипа в Unity можно изучить здесь: [Tortoises-Shell2D](https://github.com/Sanya-Karawaii/Tortoises-Shell2D).                     
+   - Сам билд можно скачать здесь: [TortoisesShellBuild](https://drive.google.com/file/d/1pS20pkfSDcbbnPqZ08xhRV6UIaNMPH8C/view?usp=sharing). 
+  
+ - __Сейчас я работаю:__ над развитием навыков написания скриптов на C# для налаживания процесса создания прототипов игр на Unity. 
+   - Подробнее можно изучить здесь: [Unity-Practice](https://github.com/Sanya-Karawaii/unity-practice).
 
   ---
 - Я нахожусь в поиске работы на вакансию Геймдизайнера!
